@@ -2,6 +2,7 @@
 
     $TeamMembers = array(
         new Student("BSCS51F22S043", "NajeeUllah"),
+        new Student("BSCS51F22S050" , "Ahmad Khan"),
       );
 
       final class Student{
